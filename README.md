@@ -13,7 +13,7 @@
 
 ---
 
-### Who am I
+## Who am I
 
 💻 I am currently working as a Senior DevOps Engineer.
 
@@ -29,7 +29,9 @@
 
 💬 Ask me about DevOps, AWS, Linux, GCP, and cloud migration strategies.
 
-### **About Me:**
+---
+
+## **About Me:**
 
 I’m a passionate Senior DevOps Engineer with 8 yrs of experience having a strong focus on automation, scalability, and reliability. Over the years, I’ve helped businesses streamline their deployment processes, migrate to the cloud with minimal downtime, and build infrastructure that can handle growth with confidence.
 
@@ -69,7 +71,7 @@ When I’m not optimizing deployments or tuning servers, you’ll find me explor
 
 ---
 
-### **Tech Stack:**
+## **Tech Stack:**
 
 - ️ **Cloud**: AWS, GCP, Azure, DigitalOcean, Linode
 - ️ **CI/CD**: GitHub Actions, GitLab CI, Jenkins, ArgoCD
@@ -81,7 +83,7 @@ When I’m not optimizing deployments or tuning servers, you’ll find me explor
 
 ---
 
-### **GitHub Stats:**
+## **GitHub Stats:**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400px" height="200px" />
@@ -90,13 +92,13 @@ When I’m not optimizing deployments or tuning servers, you’ll find me explor
 
 ---
 
-### **Certifications:**
+## **Certifications:**
 
 - ✅ AWS Certified Solutions Architect – Associate
 
 ---
 
-### **Connect with me:**
+## **Connect with me:**
 
 - Email : `abinash@devopsmind.me`
 
