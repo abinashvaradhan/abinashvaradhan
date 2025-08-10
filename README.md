@@ -154,6 +154,8 @@ When I’m not optimizing deployments or tuning servers, you’ll find me explor
 ## **Connect with me:**
 
 - Email : `abinash@devopsmind.me`
+- Upwork : `https://www.upwork.com/freelancers/~0123ffa99a469f46e6`
+- Portfolio: `Inprogress`
 
 ---
 
