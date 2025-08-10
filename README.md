@@ -2,7 +2,13 @@
 <h3 align="center">🚀 Senior DevOps Engineer | AWS | Linux | Terraform | Ansible | CI/CD | Jenkins | Kubernetes | Python | GitHub Actions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abinashvaradhan&label=Profile%20views&color=0e75b6&style=flat" alt="abinashvaradhan" />
+  <img src="https://komarev.com/ghpvc/?username=abinashvaradhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/abinashvaradhan?tab=followers">
+    <img src="https://img.shields.io/github/followers/abinashvaradhan?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/abinashvaradhan?tab=repositories">
+    <img src="https://img.shields.io/github/stars/abinashvaradhan?affiliations=OWNER&style=social" alt="GitHub Stars" />
+  </a>
 </p>
 
 ---
