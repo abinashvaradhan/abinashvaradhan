@@ -92,7 +92,7 @@ When I’m not optimizing deployments or tuning servers, you’ll find me explor
 
 ### **Connect with me:**
 
-- Email : `muneeshcareers@gmail.com`
+- Email : `abinash@devopsmind.me`
 
 ---
 
