@@ -1,15 +1,39 @@
 <h1 align="center">Hi 👋, I'm Abinash Varadhan</h1>
-<h3 align="center">🚀 Senior 𝐃𝐞𝐯𝐎𝐩𝐬 Engineer | 𝐀𝐖𝐒 | 𝐋𝐢𝐧𝐮𝐱 | 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 | 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 | 𝐂𝐈/𝐂𝐃 | 𝐉𝐞𝐧𝐤𝐢𝐧𝐬 | 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 | 𝐏𝐲𝐭𝐡𝐨𝐧 | 𝐆𝐢𝐭𝐡𝐮𝐛 𝐀𝐜𝐭𝐢𝐨𝐧 </h3>
+<h3 align="center">🚀 Senior DevOps Engineer | AWS | Linux | Terraform | Ansible | CI/CD | Jenkins | Kubernetes | Python | GitHub Actions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=abinashvaradhan&label=Profile%20views&color=0e75b6&style=flat" alt="abinashvaradhan" />
 </p>
 
 ---
 
+### Who am I
+
+💻 I am currently working as a Senior DevOps Engineer.
+
+☁️ Experienced in AWS, GCP, and cloud-native architectures.
+
+🐧 Proficient in Linux system administration and automation.
+
+⚙️ Skilled in CI/CD pipelines, containerization (Docker, Kubernetes), and Infrastructure as Code (Terraform, Ansible).
+
+🔍 Passionate about building secure, scalable, and highly available systems.
+
+📊 Adept at monitoring, logging, and performance optimization using modern observability tools.
+
+💬 Ask me about DevOps, AWS, Linux, GCP, and cloud migration strategies.
+
 ### **About Me:**
 
-* DevOps Engineer with **8+ years** of experience and deep expertise in:
+I’m a passionate Senior DevOps Engineer with 8 yrs of experience having a strong focus on automation, scalability, and reliability. Over the years, I’ve helped businesses streamline their deployment processes, migrate to the cloud with minimal downtime, and build infrastructure that can handle growth with confidence.
+
+I specialize in AWS, GCP, Linux systems, and modern DevOps practices like CI/CD pipelines, container orchestration, and Infrastructure as Code. My approach combines technical expertise with a problem-solving mindset, ensuring that every solution I design is not just functional, but efficient and secure.
+
+When I’m not optimizing deployments or tuning servers, you’ll find me exploring emerging tech trends, contributing to open-source projects, or automating tedious tasks just for the fun of it.
+
+---
+
+## 🛠️ Core Expertise
 
 ```
     Cloud platforms                     : AWS, GCP
@@ -27,15 +51,15 @@
     Other tools & services              : k9s, Jira, GitHub, Cloudflare, Wazuh, Crowdstrike, Tanium.
 ```
 
-* Need infrastructure that scales securely and reliably? Let’s talk! I’ll help you design, build, and maintain it from the ground up.
-* Share your goals, and I’ll architect a resilient, cost-optimized, and automated DevOps solution tailored to your needs.
-* Dive into my world where cloud computing meets creativity. I bring infrastructure to life across AWS and GCP with efficiency and automation at the core.
-* Imagine services that scale seamlessly and operate flawlessly. I’ve built systems that handle millions of interactions using **Kubernetes**, **Terraform**, and **Docker**.
-* I specialize in **Linux environments**, scripting with **BASH** and **Python**, and infrastructure as code using **Terraform** and **CloudFormation**. 
-* Skilled in advanced Kubernetes deployment strategies using **Helm** and **Kustomize** for environment-specific configuration and release management. 
-* Adept at log management with **Loki**, **Elasticsearch**, and **Graylog**, and optimizing performance through smart monitoring stacks. 
-* I excel in solving complex problems, proactively monitoring systems with **Prometheus** and **Grafana** to keep everything running smoothly. 
-* Let’s connect if you're passionate about scalable systems, cloud-native tools, and DevOps excellence. Always happy to collaborate and innovate!
+- Need infrastructure that scales securely and reliably? Let’s talk! I’ll help you design, build, and maintain it from the ground up.
+- Share your goals, and I’ll architect a resilient, cost-optimized, and automated DevOps solution tailored to your needs.
+- Dive into my world where cloud computing meets creativity. I bring infrastructure to life across AWS and GCP with efficiency and automation at the core.
+- Imagine services that scale seamlessly and operate flawlessly. I’ve built systems that handle millions of interactions using **Kubernetes**, **Terraform**, and **Docker**.
+- I specialize in **Linux environments**, scripting with **BASH** and **Python**, and infrastructure as code using **Terraform** and **CloudFormation**.
+- Skilled in advanced Kubernetes deployment strategies using **Helm** and **Kustomize** for environment-specific configuration and release management.
+- Adept at log management with **Loki**, **Elasticsearch**, and **Graylog**, and optimizing performance through smart monitoring stacks.
+- I excel in solving complex problems, proactively monitoring systems with **Prometheus** and **Grafana** to keep everything running smoothly.
+- Let’s connect if you're passionate about scalable systems, cloud-native tools, and DevOps excellence. Always happy to collaborate and innovate!
 
 ---
 
@@ -43,11 +67,11 @@
 
 - ️ **Cloud**: AWS, GCP, Azure, DigitalOcean, Linode
 - ️ **CI/CD**: GitHub Actions, GitLab CI, Jenkins, ArgoCD
--  **Containers**: Docker, Kubernetes, Helm, Kustomize
--  **Infra as Code**: Terraform, Terragrunt, Ansible, CloudFormation
--  **Monitoring & Logging**: Prometheus, Grafana, Loki, ELK, Graylog, CloudWatch
--  **OS & Tools**: Ubuntu, CentOS, Bash, Python, Git, Nginx, Apache
--  **Security**: IAM, WAF, Secrets Management, SSL, SSO
+- **Containers**: Docker, Kubernetes, Helm, Kustomize
+- **Infra as Code**: Terraform, Terragrunt, Ansible, CloudFormation
+- **Monitoring & Logging**: Prometheus, Grafana, Loki, ELK, Graylog, CloudWatch
+- **OS & Tools**: Ubuntu, CentOS, Bash, Python, Git, Nginx, Apache
+- **Security**: IAM, WAF, Secrets Management, SSL, SSO
 
 ---
 
@@ -63,14 +87,12 @@
 ### **Certifications:**
 
 - ✅ AWS Certified Solutions Architect – Associate
-- ✅ Certified Kubernetes Administrator (CKA)
-- ✅ HashiCorp Certified: Terraform Associate
 
 ---
 
 ### **Connect with me:**
 
-* Email : `muneeshcareers@gmail.com`
+- Email : `muneeshcareers@gmail.com`
 
 ---
 
