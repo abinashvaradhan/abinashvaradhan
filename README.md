@@ -74,7 +74,7 @@ When I’m not optimizing deployments or tuning servers, you’ll find me explor
 ## **Tech Stack:**
 
 <p align="left">
-  <!-- Cloud -->
+<p>☁️ Cloud<p align="centre">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/> &nbsp;
@@ -82,17 +82,15 @@ When I’m not optimizing deployments or tuning servers, you’ll find me explor
 
 ---
 
-  <!-- CI/CD -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50"/>&nbsp;
+<p> 🚀 CI/CD Tools<p align="centre">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab CI" alt="GitLab CI" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp;
 <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" title="ArgoCD" alt="ArgoCD" width="50" height="50"/>&nbsp;
 
 ---
 
-  <!-- Containers -->
-
+<p> 🐳 Containers & Archestration<p align="centre">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>&nbsp;
 <img src="https://helm.sh/img/helm.svg" title="Helm" alt="Helm" width="50" height="50"/>&nbsp;
@@ -100,17 +98,14 @@ When I’m not optimizing deployments or tuning servers, you’ll find me explor
 
 ---
 
-  <!-- IaC -->
-
+<p> 🛠 IAC & Configuration Management <p align="centre">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" height="50"/>&nbsp;
-<img src="https://avatars.githubusercontent.com/u/22118299?s=200&v=4" title="Terragrunt" alt="Terragrunt" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="50" height="50"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" title="CloudFormation" alt="CloudFormation" width="50" height="50"/>&nbsp;
 
 ---
 
-  <!-- Monitoring -->
-
+<p> 📊 Logging & Monitoring <p align="centre">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-plain.svg" title="Grafana" alt="Grafana" width="50" height="50"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Grafana_loki_logo.png" title="Loki" alt="Loki" width="50" height="50"/>&nbsp;
@@ -119,20 +114,18 @@ When I’m not optimizing deployments or tuning servers, you’ll find me explor
 
 ---
 
-  <!-- OS & Tools -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50"/>&nbsp;
+<p> 💻 OS & Tools<p align="centre">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="80" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" title="CentOS" alt="CentOS" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="50" height="50"/>&nbsp;
 
 ---
 
-  <!-- Security -->
-
+<p>🔒 Security  <p align="centre">
 <img src="https://img.icons8.com/color/48/000000/lock--v1.png" title="IAM" alt="IAM" width="50" height="50"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/firewall.png" title="WAF" alt="WAF" width="50" height="50"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/password1.png" title="Secrets Management" alt="Secrets Management" width="50" height="50"/>&nbsp;
